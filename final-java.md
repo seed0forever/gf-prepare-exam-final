@@ -35,7 +35,7 @@ The student, on their own, is able to:
          -  GET, POST, PUT, PATCH, DELETE
      -  handle JSON mapping of body and parameters
      -  handle headers  
-       [**ex:** header: `X-tribes-token`](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/2eaabe562da054cc8d1e2f25a004cb5068552729/src/main/java/com/greenfox/tribesoflagopus/backend/controller/TroopController.java)
+       [**ex:** header: `X-tribes-token`](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/2eaabe562da054cc8d1e2f25a004cb5068552729/src/main/java/com/greenfox/tribesoflagopus/backend/controller/TroopController.java#L41)
      -  understand requests and responses
      -  understand API documentation
  -  Either
