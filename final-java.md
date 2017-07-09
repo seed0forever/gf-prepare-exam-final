@@ -33,7 +33,8 @@ The student, on their own, is able to:
  -  Understand REST services
      -  create or consume different endpoints
          -  GET, POST, PUT, PATCH, DELETE
-     -  handle JSON mapping of body and parameters
+     -  handle JSON mapping of body and parameters  
+       [**ex:** `@RequestBody`](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/6e08b1fcb50e34fec3539a53639870d5345fccf5/src/main/java/com/greenfox/tribesoflagopus/backend/controller/RegistrationController.java#L41)
      -  handle headers  
        [**ex:** header: `X-tribes-token`](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/2eaabe562da054cc8d1e2f25a004cb5068552729/src/main/java/com/greenfox/tribesoflagopus/backend/controller/TroopController.java#L41)
      -  understand requests and responses
