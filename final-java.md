@@ -34,7 +34,7 @@ The student, on their own, is able to:
      -  create or consume different endpoints
          -  GET, POST, PUT, PATCH, DELETE
      -  handle JSON mapping of body and parameters
-     -  handle headers
+     -  handle headers [**ex:** header: `X-tribes-token`](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/2eaabe562da054cc8d1e2f25a004cb5068552729/src/main/java/com/greenfox/tribesoflagopus/backend/controller/TroopController.java)
      -  understand requests and responses
      -  understand API documentation
  -  Either
@@ -54,7 +54,8 @@ The student, on their own, is able to:
      -  Create meaningful names for methods, classes and variables
      -  Split bigger functions to smaller ones
      -  Separate functionalities to different files
-     -  Point out code smells
+     -  Point out code smells  
+        (**ex:** very long method bodies, bad naming, code repetition)
 
 ## Optional
 
@@ -64,3 +65,4 @@ The student, on their own, is able to:
  -  Authentication:
      -  handle authentication
      -  token based authorization
+
