@@ -9,7 +9,9 @@ The student, on their own, is able to:
  -  Use g0it:
      -  Commit, add, push, pull
      -  Resolving a simple merge conflict
-     -  Creating a pull request
+     -  Creating a pull request  
+       [**ex:** PR: \[Tribes Backend\] 
+add dbmodels for game objects](https://github.com/greenfox-academy/serpentine-tribes-backend/pull/1)
      -  Review other's code
  -  Follow indentation and coding styleguides in their code
  -  Create variables, instance methods, objects in Java based on a given specification  
