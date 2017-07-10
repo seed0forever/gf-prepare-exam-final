@@ -26,7 +26,7 @@ The student, on their own, is able to:
  -  Write unit tests for functions and methods
  -  Basic understanding of Gradle build system
  -  Use libraries as dependencies
- -  Include and call 3rd party libraries in their code
+ -  Include and call 3rd party libraries in their code  
    [**ex:** WeatherChecker build.gradle](https://github.com/greenfox-academy/seed0forever/blob/master/week-06/day-03/workshop/weatherchecker/build.gradle)  
    [**ex:** WeatherChecker service class](https://github.com/greenfox-academy/seed0forever/blob/master/week-06/day-03/workshop/weatherchecker/src/main/java/weatherchecker/datasource/WeatherChecker.java)  
    [**ex:** WeatherChecker instantiating an instance](https://github.com/greenfox-academy/seed0forever/blob/master/week-06/day-03/workshop/weatherchecker/src/main/java/weatherchecker/controller/Controller.java#L29)  
