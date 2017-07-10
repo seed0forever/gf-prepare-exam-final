@@ -49,7 +49,9 @@ The student, on their own, is able to:
      -  Spring Backend
          -  write endpoint
          -  test endpoint
-         -  complex data structure
+         -  complex data structure  
+           [**ex:** Location model](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/e27cf2b52ca8a7934674fb39fee4ec3d0b63ab56/src/main/java/com/greenfox/tribesoflagopus/backend/model/entity/Location.java)  
+           [**ex:** Kingdom model](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/0230be530eff9b305d40f2f350f08779c68bc245/src/main/java/com/greenfox/tribesoflagopus/backend/model/entity/Kingdom.java)  
          -  heavy usage of Spring components
          -  deploy application to hosting service (with CI)
      - Android Client
