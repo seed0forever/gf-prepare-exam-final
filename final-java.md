@@ -54,7 +54,9 @@ add dbmodels for game objects](https://github.com/greenfox-academy/serpentine-tr
          -  complex data structure  
            [**ex:** Location model](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/e27cf2b52ca8a7934674fb39fee4ec3d0b63ab56/src/main/java/com/greenfox/tribesoflagopus/backend/model/entity/Location.java)  
            [**ex:** Kingdom model](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/0230be530eff9b305d40f2f350f08779c68bc245/src/main/java/com/greenfox/tribesoflagopus/backend/model/entity/Kingdom.java)  
-         -  heavy usage of Spring components
+         -  heavy usage of Spring components  
+           *examples:*  
+            - [extending `CrudRepository`](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/c1c38d177158ac5effbe9a83c5a3fc7e754b1156/src/main/java/com/greenfox/tribesoflagopus/backend/repository/TroopRepository.java#L8)  
          -  deploy application to hosting service (with CI)
      - Android Client
          -  write activity / fragment
