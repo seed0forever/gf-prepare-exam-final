@@ -57,6 +57,7 @@ add dbmodels for game objects](https://github.com/greenfox-academy/serpentine-tr
          -  heavy usage of Spring components  
            *examples:*  
             - [extending `CrudRepository`](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/c1c38d177158ac5effbe9a83c5a3fc7e754b1156/src/main/java/com/greenfox/tribesoflagopus/backend/repository/TroopRepository.java#L8)  
+            - [overriding a method of `ResponseEntityExceptionHandler`](https://github.com/greenfox-academy/serpentine-tribes-backend/blob/6e08b1fcb50e34fec3539a53639870d5345fccf5/src/main/java/com/greenfox/tribesoflagopus/backend/exception/handler/RestControllerExceptionHandler.java)
          -  deploy application to hosting service (with CI)
      - Android Client
          -  write activity / fragment
