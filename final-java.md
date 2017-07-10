@@ -30,8 +30,9 @@ add dbmodels for game objects](https://github.com/greenfox-academy/serpentine-tr
  -  Use libraries as dependencies
  -  Include and call 3rd party libraries in their code  
    [**ex:** WeatherChecker build.gradle](https://github.com/greenfox-academy/seed0forever/blob/master/week-06/day-03/workshop/weatherchecker/build.gradle)  
-   [**ex:** WeatherChecker service class](https://github.com/greenfox-academy/seed0forever/blob/master/week-06/day-03/workshop/weatherchecker/src/main/java/weatherchecker/datasource/WeatherChecker.java)  
-   [**ex:** WeatherChecker instantiating an instance](https://github.com/greenfox-academy/seed0forever/blob/master/week-06/day-03/workshop/weatherchecker/src/main/java/weatherchecker/controller/Controller.java#L29)  
+   [**ex:** WeatherChecker service class](https://github.com/greenfox-academy/seed0forever/blob/19c075a1e5209e8d1a9cc8bd2ad57ffe9dbb6a4b/week-06/day-03/workshop/weatherchecker/src/main/java/weatherchecker/datasource/WeatherChecker.java)  
+   [**ex:** WeatherChecker instantiating an instance](https://github.com/greenfox-academy/seed0forever/blob/19c075a1e5209e8d1a9cc8bd2ad57ffe9dbb6a4b/week-06/day-03/workshop/weatherchecker/src/main/java/weatherchecker/controller/Controller.java#L29)  
+   [**ex:** WeatherChecker calling the method of the service](https://github.com/greenfox-academy/seed0forever/blob/19c075a1e5209e8d1a9cc8bd2ad57ffe9dbb6a4b/week-06/day-03/workshop/weatherchecker/src/main/java/weatherchecker/controller/ArgumentHandler.java#L30)
  -  Use databases:
      -  Implement database calls with Java
      -  Write a simple SQL query for a single table:
