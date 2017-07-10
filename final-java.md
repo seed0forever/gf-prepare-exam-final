@@ -25,7 +25,8 @@ add dbmodels for game objects](https://github.com/greenfox-academy/serpentine-tr
      -  Maping values
  -  Determine the output of expressions
  -  Explain their own code
- -  Write unit tests for functions and methods
+ -  Write unit tests for functions and methods  
+   [**ex:** unit tests for my final exam exercise](https://github.com/seed0forever/lagopus-final-exam/blob/eb14c145767f666550f2da5a8c826bb6669d2e4b/src/test/java/exercise8/utility/SequenceUtilTest.java#L18)
  -  Basic understanding of Gradle build system
  -  Use libraries as dependencies
  -  Include and call 3rd party libraries in their code  
