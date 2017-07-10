@@ -15,7 +15,6 @@ The student, on their own, is able to:
  -  Create variables, instance methods, objects in Java based on a given specification  
    [**ex:** from the RPG Game project](https://github.com/greenfox-academy/seed0forever/blob/master/week-05/RPGgame/src/TileMap.java)  
    [**ex:** `Post` model from project Reddit](https://github.com/greenfox-academy/seed0forever/blob/bc0197b259402337a65b2500df5f132845342c13/week-08/day-05/project/reddit/src/main/java/com/greenfox/seed0forever/reddit/model/Post.java#L12)  
-      [**ex:** controller from project Reddit](https://github.com/greenfox-academy/seed0forever/blob/bc0197b259402337a65b2500df5f132845342c13/week-08/day-05/project/reddit/src/main/java/com/greenfox/seed0forever/reddit/controller/PostController.java#L28)
  -  Use conditions and loops:
      -  Filtering
      -  Finding elements or index
