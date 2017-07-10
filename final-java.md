@@ -13,7 +13,7 @@ The student, on their own, is able to:
      -  Review other's code
  -  Follow indentation and coding styleguides in their code
  -  Create variables, instance methods, objects in Java based on a given specification  
-   [Examples](https://github.com/greenfox-academy/seed0forever/blob/master/week-05/RPGgame/src/TileMap.java)
+   [**ex:** from the RPG Game project](https://github.com/greenfox-academy/seed0forever/blob/master/week-05/RPGgame/src/TileMap.java)
  -  Use conditions and loops:
      -  Filtering
      -  Finding elements or index
